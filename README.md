@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repository for Applied Data Science Capstone Project 
+Repo for Applied Data Science Capstone Project 
